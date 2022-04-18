@@ -1,4 +1,4 @@
 A fayl 
 birinchi ma'lumot 
-o'zgartirish kiritildi 
+o'zgartirish kiritildi. GitHub Server tomonidan.
 Shuhrat Bozorov
